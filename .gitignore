@@ -1,2 +1,5 @@
 *.mod
+*.smod
 *.out
+*.o
+module/submodule/main.f90
